@@ -1,0 +1,33 @@
+body{
+	margin: 5;
+	background-color: #EFEFEF;
+}
+
+.cvlayout{
+	margin: auto;
+	width: 25%;
+	padding: 30px;
+	background: #fff;
+	border: 5px solid #fff;
+	font-size: 18px;
+	-webkit-box-shadow: 0px 0px 20px -5px rgba(0,0,0,0.75);
+	-moz-box-shadow: 0px 0px 20px -5px rgba(0,0,0,0.75);
+	box-shadow: 0px 0px 20px -5px rgba(0,0,0,0.75);
+}
+
+/* HEADER */
+
+.name{
+	font-weight: bold;
+}
+
+.name,
+.image,
+.course{
+	text-align: center;
+}
+
+.name,
+.symbol{
+	font-size: 30px;
+}
